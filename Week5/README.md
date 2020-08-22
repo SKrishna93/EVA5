@@ -1,6 +1,7 @@
 # Session 5
 
-## Model 1
+## Model 1 
+[Code](https://github.com/SKrishna93/EVA5/blob/master/Week5/EVA5_Session_5_Model1.ipynb)
 
 ### Objective
 * Build a base network for our model. Inspired from previous assignment
@@ -17,6 +18,7 @@
 * Second transistion block is added after 2 more layers of convolution
 
 ## Model 2
+[Code](https://github.com/SKrishna93/EVA5/blob/master/Week5/EVA5_Session_5_Model2.ipynb)
 
 ### Objective
 
@@ -33,6 +35,7 @@
 * Add BatchNorm to help the model learn faster (Lower the number of epochs)
 
 # Model 3
+[Code](https://github.com/SKrishna93/EVA5/blob/master/Week5/EVA5_Session_5_Model3.ipynb)
 
 ### Objective
 
@@ -49,6 +52,7 @@
 Use regularization techiniques like dropout. Image Augmentation to make model sweat harder during training :)    
 
 # Model 4
+[Code](https://github.com/SKrishna93/EVA5/blob/master/Week5/EVA5_Session_5_Model4.ipynb)
 
 ### Objective
 
@@ -62,6 +66,7 @@ Use regularization techiniques like dropout. Image Augmentation to make model sw
 * Getting consistently >99.4% accuracy in last few epochs
 
 # Model 5 (Final Model)
+[Code](https://github.com/SKrishna93/EVA5/blob/master/Week5/EVA5_Session_5_Model5.ipynb)
 
 ### Objective
 
@@ -74,6 +79,8 @@ Use regularization techiniques like dropout. Image Augmentation to make model sw
 * Model is able to cross the 99.4% test accuracy threshold faster and able to maintain it throughout the remaining epochs
   
 # Model 6 (Mission Impossible)
+[Code](https://github.com/SKrishna93/EVA5/blob/master/Week5/EVA5_Session_5_Model6.ipynb)
+
 ### Objective
 
 * Reduce the number of parameters in the Model to <8K
