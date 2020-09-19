@@ -1,7 +1,5 @@
 # Session 6 - Batch Normalization and Regularization
 
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/EVA5-BlackbeltAI/EVA5-Session6/blob/Anubhab_branch/EVA5_Session_6.ipynb)
-
 ## Group Members
 
 1. Anubhab Panda
