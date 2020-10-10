@@ -7,6 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1pYX-0FIXwn06esNVvurawXHORMS9B4sr
 """
 
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+
 class Net(nn.Module):
   def __init__(self):
     super(Net, self).__init__()
