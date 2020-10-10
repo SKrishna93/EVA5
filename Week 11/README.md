@@ -13,10 +13,10 @@
  * transform used: Padding-->Randomcrop-->flip-->cutout
 
 ## Accuracy and Loss
-![i](images/acc.png) ![i2](images/loss.png)
+![i](Images/acc.png) ![i2](Images/loss.png)
 
 ## LRfinder with range test
-![img3](images/lrf.png)
+![img3](Images/lrf.png)
 
 ## Cyclic LR plot
-![img5](images/download.png)
+![img5](Images/download.png)
